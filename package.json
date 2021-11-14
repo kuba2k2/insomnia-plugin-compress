@@ -1,0 +1,22 @@
+{
+  "name": "@kuba2k2/insomnia-plugin-compress",
+  "version": "0.1.0",
+  "description": "Compress/decompress values using request template tags.",
+  "license": "MIT",
+  "insomnia": {
+    "name": "compress",
+    "description": "Compress/decompress values using request template tags."
+  },
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuba2k2/insomnia-plugin-compress.git"
+  },
+  "keywords": [
+    "insomnia-plugin",
+    "compression",
+    "gzip",
+    "deflate"
+  ],
+  "author": "Kuba Szczodrzyński <kuba@szczodrzynski.pl>"
+}
